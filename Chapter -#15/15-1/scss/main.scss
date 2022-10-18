@@ -1,0 +1,14 @@
+$bg: #ddf;
+$txtBlack: #000;
+
+#clock {
+    font: bold 24px sans-serif;
+    background: $bg;
+    padding: 15px;
+    border: solid $txtBlack 2px;
+    border-radius: 10px;
+}
+
+* {
+    text-align: center;
+}

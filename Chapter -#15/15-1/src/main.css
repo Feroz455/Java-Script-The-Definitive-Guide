@@ -1,0 +1,13 @@
+#clock {
+  font: bold 24px sans-serif;
+  background: #ddf;
+  padding: 15px;
+  border: solid #000 2px;
+  border-radius: 10px;
+}
+
+* {
+  text-align: center;
+}
+
+/*# sourceMappingURL=main.css.map */
